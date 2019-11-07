@@ -1,6 +1,6 @@
 # Flutter Event Channels Tutorial
 
-This is a companion repo for a tutorial [blog post](). The project demonstrates usage of cross language event channels in Flutter. 
+This is a companion repo for a tutorial [blog post](https://blog.testfairy.com/listeners-with-eventchannel-in-flutter/). The project demonstrates usage of cross language event channels in Flutter. 
 
 Feel free to take a look if you'd like to learn how to call Dart event channels from Java or Objective-C code.
 
